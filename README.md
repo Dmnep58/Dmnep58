@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dmnep58
-- 👀 I’m interested in .coding
+- 👀 I’m interest✨✨ed in .coding
 - 🌱 I’m currently learning  Computer science and Engineering
-.
+.  🎆🧨 INTERESTED IN WEB DEVELOPMENT.(HTML,CSS,TAILWIND CSS).
 
 <!---
 Dmnep58/Dmnep58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
