@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dmnep58
 - 👀 I’m interest✨✨ed in coding
 - 🌱 I’m currently learning  Computer science and Engineering
-- INTERESTED IN WEB DEVELOPMENT.(HTML,CSS,TAILWIND CSS).
-- interested in java language and its gui components.
+- INTERESTED IN WEB DEVELOPMENT.(HTML,CSS).
+-  java  and its gui components.
 🎆🧨 
 
 
