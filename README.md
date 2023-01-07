@@ -1,5 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/zydsaIqtt_1a-qMfhziqJWFTRxauNIlfFaHEuEhdKrg/rs:fit:1538:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5IQktsQVBs/QTBEeERfQ1RpVjhK/Rm5RSGFDUyZwaWQ9/QXBp)
-[![MasterHead](https://imgs.search.brave.com/zydsaIqtt_1a-qMfhziqJWFTRxauNIlfFaHEuEhdKrg/rs:fit:1538:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5IQktsQVBs/QTBEeERfQ1RpVjhK/Rm5RSGFDUyZwaWQ9/QXBp)
+[MasterHead](https://imgs.search.brave.com/zydsaIqtt_1a-qMfhziqJWFTRxauNIlfFaHEuEhdKrg/rs:fit:1538:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5IQktsQVBs/QTBEeERfQ1RpVjhK/Rm5RSGFDUyZwaWQ9/QXBp)
 <h1 align="center">Hi 👋, I'm Devi Prasad Mishra</h1>
 <h3 align="center">A passionate JAVA developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmnep58&label=Profile%20views&color=0e75b6&style=flat" alt="dmnep58" /> </p>
