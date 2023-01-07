@@ -1,6 +1,11 @@
+[![MasterHead](https://imgs.search.brave.com/zydsaIqtt_1a-qMfhziqJWFTRxauNIlfFaHEuEhdKrg/rs:fit:1538:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5IQktsQVBs/QTBEeERfQ1RpVjhK/Rm5RSGFDUyZwaWQ9/QXBp)
 <h1 align="center">Hi 👋, I'm Devi Prasad Mishra</h1>
 <h3 align="center">A passionate JAVA developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmnep58&label=Profile%20views&color=0e75b6&style=flat" alt="dmnep58" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmnep58" alt="dmnep58" /></a> </p>
 
 - 🔭 I’m currently working on **Bank Management System**
 
