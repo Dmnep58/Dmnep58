@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://devipmishra.com.np/](http://devipmishra.com.np/)
 
-- 💬 Ask me about **Html , CSS , C ,C++ , JAVA**
+- 💬 Ask me about **Html , CSS , JS , JAVA**
 
 - 📫 How to reach me **Dpm90797@gmail.com**
 
