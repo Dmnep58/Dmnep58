@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Hibernate**
+- 🔭 I’m currently working on **ABAP Programming**
 
-- 🌱 I’m currently learning **Java GUI , Android App Development**
+- 🌱 I’m currently learning **SAP ABAP PROGRAMMING AND HANA **
 
 - 👨‍💻 All of my projects are available at [http://devipmishra.com.np/](http://devipmishra.com.np/)
 
-- 💬 Ask me about **Html , CSS , JS , JAVA**
+- 💬 Ask me about **Html , CSS , JS , JAVA , ABAP , SAP HANA**
 
 - 📫 How to reach me **Dpm90797@gmail.com**
 
