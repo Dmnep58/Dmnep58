@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **ABAP Programming**
+- 🔭 I’m currently working on **RAP Programming and BTP**
 
-- 🌱 I’m currently learning **SAP ABAP PROGRAMMING AND HANA **
+- 🌱 I’m currently learning **RAP PROGRAMMING AND ABAP CLOUD PROJECTS**
 
 - 👨‍💻 All of my projects are available at [http://devipmishra.com.np/](http://devipmishra.com.np/)
 
-- 💬 Ask me about **Html , CSS , JS , JAVA , ABAP , SAP HANA**
+- 💬 Ask me about **Html , CSS , JS , JAVA , ABAP , SAP HANA , OO-ABAP, ODATA, AMDP, LTMC, RAP, BTP**
 
 - 📫 How to reach me **Dpm90797@gmail.com**
 
